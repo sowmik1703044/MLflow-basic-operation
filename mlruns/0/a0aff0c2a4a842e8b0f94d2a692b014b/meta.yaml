@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/sowmik/mlflow-test/mlruns/0/a0aff0c2a4a842e8b0f94d2a692b014b/artifacts
+end_time: 1722335337919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0aff0c2a4a842e8b0f94d2a692b014b
+run_name: industrious-asp-835
+run_uuid: a0aff0c2a4a842e8b0f94d2a692b014b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722335333834
+status: 3
+tags: []
+user_id: Sowmik

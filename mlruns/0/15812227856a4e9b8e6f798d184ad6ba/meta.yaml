@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/sowmik/mlflow-test/mlruns/0/15812227856a4e9b8e6f798d184ad6ba/artifacts
+end_time: 1722290257839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15812227856a4e9b8e6f798d184ad6ba
+run_name: redolent-foal-958
+run_uuid: 15812227856a4e9b8e6f798d184ad6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722290254237
+status: 3
+tags: []
+user_id: Sowmik

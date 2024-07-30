@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/sowmik/mlflow-test/mlruns/0/a651b0672e6247ebb28e3e379090cd51/artifacts
+end_time: 1722289875569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a651b0672e6247ebb28e3e379090cd51
+run_name: gaudy-robin-239
+run_uuid: a651b0672e6247ebb28e3e379090cd51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722289872553
+status: 3
+tags: []
+user_id: Sowmik
